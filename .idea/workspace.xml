@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c7bf593-7a31-46ac-b37a-3f47b794ae11" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/worldsnas/kotlinbasics/1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/worldsnas/kotlinbasics/1.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/worldsnas/kotlinbasics/3.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/worldsnas/kotlinbasics/3.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/worldsnas/kotlinbasics/4.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/worldsnas/kotlinbasics/4.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -144,7 +142,7 @@
       <workItem from="1567165313456" duration="10856000" />
       <workItem from="1567754921123" duration="1884000" />
       <workItem from="1567758623930" duration="426000" />
-      <workItem from="1571249917673" duration="2739000" />
+      <workItem from="1571249917673" duration="3631000" />
     </task>
     <task id="LOCAL-00001" summary="added comments and stories to 1 and 2">
       <created>1571253310285</created>
@@ -153,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571253310285</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added comments to number 3 higher order functions">
+      <created>1571253699805</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1571253699805</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,6 +179,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added comments and stories to 1 and 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="added comments and stories to 1 and 2" />
+    <MESSAGE value="added comments to number 3 higher order functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="added comments to number 3 higher order functions" />
   </component>
 </project>
