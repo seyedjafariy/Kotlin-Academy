@@ -200,8 +200,7 @@ private fun functionWithFunctionParameter(function: (String) -> String) {
 
 
 
-//In the world of functional paradigm this function is called higher-order function
-//that basically means function accepting another function as parameter
+
 
 
 
