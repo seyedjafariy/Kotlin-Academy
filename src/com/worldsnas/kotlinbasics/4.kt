@@ -137,6 +137,8 @@ private open class NewList<T>
 
 
 //class NewList has a type parameter "T"
+
+
 //time to reveal arguments!
 
 
@@ -149,8 +151,38 @@ private open class NewList<T>
 
 
 
-//we define Int as type argument
+
+
+
+
+
+
+
+
+
 private class EmptyList : NewList<Int>()
+
+
+
+
+
+
+
+
+
+
+
+//we define Int as type argument
+//that was a normal type argument now we can see some argument as well
+
+
+
+
+
+
+
+
+
 
 
 
@@ -162,5 +194,13 @@ fun main() {
     functionWithParameter(firstArg, secondArg)
 }
 
+
+
+
+
+
+
+
+//these two variable called argument because we pass them to another function
 //so generally speeking the declaration is parameter and the value we pass is argument
 
