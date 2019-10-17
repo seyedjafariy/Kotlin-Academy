@@ -75,7 +75,7 @@ class ConsumerWithGenerics<in T> {
 
 abstract class ProducerWithGenerics<out T> {
 
-    abstract fun take(): T
+    abstract fun take(): List<T>
 }
 
 
@@ -88,3 +88,4 @@ abstract class ProducerWithGenerics<out T> {
 
 //same class but with generic input function and invariant consumer
 //and the generic producer function
+//example usage of this in/out is the List class (see inside)
