@@ -84,7 +84,7 @@ private inline fun functionWithFunction(block: () -> Unit) {
 }
 
 
-fun main(args: Array<String>) {
+fun main() {
     println("normal function")
     normalFunction()
 
@@ -97,7 +97,7 @@ fun main(args: Array<String>) {
 
 
 
-
+//funny there are two main in our trace we will discover them in a bit
 //    println("inline function with lambda")
 //    functionWithFunction {
 //        println()

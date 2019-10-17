@@ -4,6 +4,8 @@
     <list default="true" id="4c7bf593-7a31-46ac-b37a-3f47b794ae11" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/worldsnas/kotlinbasics/10.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/worldsnas/kotlinbasics/10.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/worldsnas/kotlinbasics/11.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/worldsnas/kotlinbasics/11.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/worldsnas/kotlinbasics/9.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/worldsnas/kotlinbasics/9.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -143,7 +145,7 @@
       <workItem from="1567165313456" duration="10856000" />
       <workItem from="1567754921123" duration="1884000" />
       <workItem from="1567758623930" duration="426000" />
-      <workItem from="1571249917673" duration="11134000" />
+      <workItem from="1571249917673" duration="12256000" />
     </task>
     <task id="LOCAL-00001" summary="added comments and stories to 1 and 2">
       <created>1571253310285</created>
@@ -215,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571294093014</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="finalized 10">
+      <created>1571296698871</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1571296698871</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -245,6 +254,7 @@
     <MESSAGE value="finalized 7" />
     <MESSAGE value="finalized 8&#10;added extra topics to 1" />
     <MESSAGE value="finalized 9" />
-    <option name="LAST_COMMIT_MESSAGE" value="finalized 9" />
+    <MESSAGE value="finalized 10" />
+    <option name="LAST_COMMIT_MESSAGE" value="finalized 10" />
   </component>
 </project>

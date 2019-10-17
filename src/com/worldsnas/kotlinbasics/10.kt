@@ -78,4 +78,7 @@ fun main() {
 
 
 //real world use case?
+//has anyone seen/used reified in real world cases?
+
+
 //Retrofit.create<YourInterface>()
