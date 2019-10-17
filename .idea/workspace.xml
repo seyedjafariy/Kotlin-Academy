@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c7bf593-7a31-46ac-b37a-3f47b794ae11" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/worldsnas/kotlinbasics/13.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/worldsnas/kotlinbasics/13.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/worldsnas/kotlinbasics/14.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -143,7 +142,7 @@
       <workItem from="1567165313456" duration="10856000" />
       <workItem from="1567754921123" duration="1884000" />
       <workItem from="1567758623930" duration="426000" />
-      <workItem from="1571249917673" duration="13375000" />
+      <workItem from="1571249917673" duration="13718000" />
     </task>
     <task id="LOCAL-00001" summary="added comments and stories to 1 and 2">
       <created>1571253310285</created>
@@ -229,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571298864745</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="finalized 13">
+      <created>1571300041023</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1571300041023</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -261,6 +267,7 @@
     <MESSAGE value="finalized 9" />
     <MESSAGE value="finalized 10" />
     <MESSAGE value="finalized 11" />
-    <option name="LAST_COMMIT_MESSAGE" value="finalized 11" />
+    <MESSAGE value="finalized 13" />
+    <option name="LAST_COMMIT_MESSAGE" value="finalized 13" />
   </component>
 </project>

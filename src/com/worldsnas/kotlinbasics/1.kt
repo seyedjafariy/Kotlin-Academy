@@ -421,6 +421,5 @@ fun main() {
 
 
 //operator overloads and examples
-//infix
-//inline
+//function alias
 //suspend
