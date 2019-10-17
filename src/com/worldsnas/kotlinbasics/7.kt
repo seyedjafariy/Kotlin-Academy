@@ -166,6 +166,7 @@ private class ClassWithCompanion{
 //but rather a new object called companion which has only one instance
 //remember if you need to call you companion object from java code as static functions
 //you need to add the @JvmStatic
+//just watch out for you method count when you add @JvmStatic
 //but what is the use case?
 //companion object functions are very useful when we need a factory for our class
 

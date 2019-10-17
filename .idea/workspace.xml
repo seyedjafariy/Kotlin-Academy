@@ -1,9 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c7bf593-7a31-46ac-b37a-3f47b794ae11" name="Default Changelist" comment="">
+    <list default="true" id="4c7bf593-7a31-46ac-b37a-3f47b794ae11" name="Default Changelist" comment="finalized 4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/worldsnas/kotlinbasics/4.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/worldsnas/kotlinbasics/4.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinBasics-P1/META-INF/KotlinBasics-P1.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinBasics-P1/META-INF/KotlinBasics-P1.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinBasics-P1/com/worldsnas/kotlinbasics/EmptyList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinBasics-P1/com/worldsnas/kotlinbasics/EmptyList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinBasics-P1/com/worldsnas/kotlinbasics/MyFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinBasics-P1/com/worldsnas/kotlinbasics/MyFunction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinBasics-P1/com/worldsnas/kotlinbasics/NewList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinBasics-P1/com/worldsnas/kotlinbasics/NewList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinBasics-P1/com/worldsnas/kotlinbasics/SingleFunctionClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinBasics-P1/com/worldsnas/kotlinbasics/SingleFunctionClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinBasics-P1/com/worldsnas/kotlinbasics/_1Kt$functionInsideAnotherFunction$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinBasics-P1/com/worldsnas/kotlinbasics/_1Kt$functionInsideAnotherFunction$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinBasics-P1/com/worldsnas/kotlinbasics/_1Kt$functionVariable$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinBasics-P1/com/worldsnas/kotlinbasics/_1Kt$functionVariable$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinBasics-P1/com/worldsnas/kotlinbasics/_1Kt$functionWithFunctionReturnType$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinBasics-P1/com/worldsnas/kotlinbasics/_1Kt$functionWithFunctionReturnType$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinBasics-P1/com/worldsnas/kotlinbasics/_1Kt$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinBasics-P1/com/worldsnas/kotlinbasics/_1Kt$main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinBasics-P1/com/worldsnas/kotlinbasics/_1Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinBasics-P1/com/worldsnas/kotlinbasics/_1Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinBasics-P1/com/worldsnas/kotlinbasics/_2Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinBasics-P1/com/worldsnas/kotlinbasics/_2Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinBasics-P1/com/worldsnas/kotlinbasics/_3Kt$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinBasics-P1/com/worldsnas/kotlinbasics/_3Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinBasics-P1/com/worldsnas/kotlinbasics/_3Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinBasics-P1/com/worldsnas/kotlinbasics/_4Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinBasics-P1/com/worldsnas/kotlinbasics/_4Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinBasics-P1/com/worldsnas/kotlinbasics/_5Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinBasics-P1/com/worldsnas/kotlinbasics/_5Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinBasics-P1/com/worldsnas/kotlinbasics/_9Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinBasics-P1/com/worldsnas/kotlinbasics/_9Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/worldsnas/kotlinbasics/1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/worldsnas/kotlinbasics/1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/worldsnas/kotlinbasics/7.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/worldsnas/kotlinbasics/7.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/worldsnas/kotlinbasics/8.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/worldsnas/kotlinbasics/8.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,10 +53,10 @@
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -52,7 +70,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.com.worldsnas.kotlinbasics._9Kt">
+  <component name="RunManager" selected="Kotlin.com.worldsnas.kotlinbasics._5Kt">
     <configuration name="com.worldsnas.kotlinbasics._1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinBasics-P1" />
       <option name="VM_PARAMETERS" />
@@ -120,9 +138,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.com.worldsnas.kotlinbasics._5Kt" />
         <item itemvalue="Kotlin.com.worldsnas.kotlinbasics._9Kt" />
         <item itemvalue="Kotlin.com.worldsnas.kotlinbasics._8Kt" />
-        <item itemvalue="Kotlin.com.worldsnas.kotlinbasics._5Kt" />
         <item itemvalue="Kotlin.com.worldsnas.kotlinbasics._2Kt" />
         <item itemvalue="Kotlin.com.worldsnas.kotlinbasics._1Kt" />
       </list>
@@ -143,7 +161,7 @@
       <workItem from="1567165313456" duration="10856000" />
       <workItem from="1567754921123" duration="1884000" />
       <workItem from="1567758623930" duration="426000" />
-      <workItem from="1571249917673" duration="4868000" />
+      <workItem from="1571249917673" duration="8779000" />
     </task>
     <task id="LOCAL-00001" summary="added comments and stories to 1 and 2">
       <created>1571253310285</created>
@@ -166,7 +184,42 @@
       <option name="project" value="LOCAL" />
       <updated>1571254582959</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="finalized 4">
+      <created>1571289911813</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1571289911813</updated>
+    </task>
+    <task id="LOCAL-00005" summary="finalized 5">
+      <created>1571291358709</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1571291358709</updated>
+    </task>
+    <task id="LOCAL-00006" summary="formatted 6 and added generic producer">
+      <created>1571291720741</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1571291720741</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added real life example to in and out">
+      <created>1571291789826</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1571291789826</updated>
+    </task>
+    <task id="LOCAL-00008" summary="finalized 7">
+      <created>1571292546611</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1571292546611</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,6 +242,11 @@
     <MESSAGE value="added comments and stories to 1 and 2" />
     <MESSAGE value="added comments to number 3 higher order functions" />
     <MESSAGE value="a few steps to 4 still way to go" />
-    <option name="LAST_COMMIT_MESSAGE" value="a few steps to 4 still way to go" />
+    <MESSAGE value="finalized 4" />
+    <MESSAGE value="finalized 5" />
+    <MESSAGE value="formatted 6 and added generic producer" />
+    <MESSAGE value="added real life example to in and out" />
+    <MESSAGE value="finalized 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="finalized 7" />
   </component>
 </project>

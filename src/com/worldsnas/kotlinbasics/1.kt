@@ -418,3 +418,9 @@ fun main() {
 
     thisVariableIsAFunction("converted function")
 }
+
+
+//operator overloads and examples
+//infix
+//inline
+//suspend
